@@ -4,7 +4,7 @@ Developed by : Azhar Farooq Wani
 -------------------------------------------
 
 Use LockMe.java to initialize the app.
-Ue 123123 as the unique id for admin registration.
+Use 123123 as the unique id for admin registration.
 "SignupAdmin.txt" stores admin login credenials.
 "SignupUser.txt" stores user login credenials.
 Individual user files are created to store user data.
